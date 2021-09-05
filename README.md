@@ -1,6 +1,2 @@
 # hello-world1
-
-
-
-
-programming is a passion
+Programming is a passion, and its fun
